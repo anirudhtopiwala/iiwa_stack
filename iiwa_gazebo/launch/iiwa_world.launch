@@ -12,7 +12,7 @@
     <arg name="hardware_interface" default="PositionJointInterface"/>
     <arg name="robot_name" default="iiwa" />
     <arg name="model" default="iiwa7"/>
-    <arg  name="Color"  default="RB"/>
+    <arg name="Color" default="RB"/>
     <!-- We resume the logic in empty_world.launch, changing only the name of the world to be launched -->
 
     <!-- For Red and Blue Disc Combination -->
